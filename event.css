@@ -1,0 +1,52 @@
+body{
+	background-image:url('m7.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 160%;
+	margin:0;	
+}
+.navbar{
+	font-family:Lato;
+	width:105%;
+	overflow:auto;
+}
+.navbar a{
+	font-family:Lato;
+	float:left;
+	padding:12px;
+	color:white;
+	text-decoration:none;
+	font-size:27px;
+	width:31%;
+	text-align:center;
+	background-color:#6bbe30
+}
+.navbar a:hover{
+	background-color:grey;
+}
+h1{
+	color:white;
+	font-size:50px;
+	padding-top:5%;
+	padding-left:40%;
+	font-family:Lato;
+}
+h2{
+	color:white;
+	font-size:30px;
+	padding-left:45%;
+	font-family:Lato;
+}
+h3{
+	color:white;
+	font-size:20px;
+	padding-left:47%;
+	font-family:Lato;
+}
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	text-align:center;
+	color:white;
+}
